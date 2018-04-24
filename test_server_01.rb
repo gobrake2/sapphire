@@ -3,7 +3,7 @@
 require 'sinatra'
 
 get '/join' do
- "회원 가입 페이지임 ㅇㅇ"
+ "<h1 style='text-align:center'>회원 가입 페이지임 ㅇㅇ </h1>"
  end
 
  get '/logout' do
