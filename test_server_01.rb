@@ -3,5 +3,5 @@
 require 'sinatra'
 
 get '/' do
- "block!"
+ "block! hihihihihihihi"
  end
