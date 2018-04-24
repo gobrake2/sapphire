@@ -2,6 +2,6 @@
 
 require 'sinatra'
 
-get '/' do
- "block! hihihihihihihi"
+get '/join' do
+ "회원 가입 페이지임 ㅇㅇ"
  end
